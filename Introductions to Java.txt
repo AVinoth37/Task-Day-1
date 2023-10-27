@@ -23,6 +23,13 @@ public class Main {
     }
 }
 
+Input: a =1
+b=5
+c=2
+d=3
+
+Output:
+The sum of a and b is greater than the sum of c and d.
 
 2. Have a variable store an integer. Create an if statement to find out if it's an even number.
 Hint: Use operator %.
@@ -46,6 +53,10 @@ public class Main {
     }
 }
 
+Input: 35
+
+Output: The number 35 is odd
+
 
 3. Write a program to print the characters from A to Z.
 
@@ -62,6 +73,33 @@ public class Main {
     }
 }
 
+Output: 
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
 
 4. Write a java program to get 2 numbers from the user and swap their values without any loss of data. You can make use of additional variable for swapping. Print the corresponding swapped
 
@@ -89,6 +127,12 @@ public class Main {
     }
         
 }
+
+Output: 
+Enter the first number: 10
+Enter the second number:20
+The first number is 20
+The second numer is 10
 
 
 5. Write a program to check if a number is prime or not.
@@ -121,6 +165,9 @@ public class Main {
     }
 }
 
+Output:
+Enter a number: 10
+10 is not a prime number.
 
 6. Write a program to print the factorial of a given number. For Ex: 5!=120
 
@@ -144,6 +191,10 @@ public class Main {
         
 }
 
+Output:
+Enter a number:10
+The factorial of 10 is 3628800
+
 
 7. Write a program to print the length of the given string. String msg="Guvi Geek"
 
@@ -160,6 +211,8 @@ public class Main {
      
 }
         
+Output: 9
+
 
 8. Write a program To print "Welcome to Guvi" 10 times.
 
@@ -172,6 +225,17 @@ public class Main {
     }
 }
 
+Output:
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
 
 9. Write a program to check whether the person is a senior citizen or not.
 
@@ -202,6 +266,10 @@ public class Main {
 
     }
         
+Output:
+Enter name: Vinoth
+Enter age: 26
+Vinoth is not a Senior citizen.
 
 10. Write a program to Count Number of Digits in an Integer.
 
@@ -229,3 +297,6 @@ public class Main {
 
     }
  
+Output:
+Enter an integer: 123456
+Numer of digits is: 6
